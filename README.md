@@ -84,11 +84,7 @@ If you'd like to explore the code or run this project locally on your machine:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jairaj-215xp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
 
-<br>
 
 <div align="center">
   <i>Designed & Built by Jairaj Sapkal</i> ⚡
