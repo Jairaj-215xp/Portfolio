@@ -1,22 +1,8 @@
 # 🚀 Jairaj Sapkal - Personal Portfolio
 
-![Portfolio Preview](assets/images/profile.jpg) 
-*(Note: Replace with an actual screenshot of your portfolio if you have one!)*
-
 Welcome to my personal portfolio! This is a modern, fast, and responsive web application built to showcase my projects, skills, and continuous learning journey as an Information Technology student and developer.
 
 **🌐 Live Demo:** [https://jairajsapkal.netlify.app/](https://jairajsapkal.netlify.app/)
-
----
-
-## ✨ Features
-
-- **Modern Glassmorphic UI**: Sleek, frosted-glass elements with vibrant purple and dark mode aesthetics.
-- **Dynamic Data Loading**: All content (About, Journey, Projects) is powered by a central `portfolio.json` file, making it incredibly easy to update without touching the HTML.
-- **Scroll Reveal Animations**: Beautiful fade-in and slide-up animations powered by the Intersection Observer API.
-- **Responsive Design**: Flawlessly adapts to all devices, from large desktop monitors to mobile phones.
-- **Smart Validation & Contact Form**: Custom-built, zero-dependency contact form linked directly to email via Web3Forms, complete with sleek error handling.
-- **Automated Stats**: The "Current CGPA" statistic automatically parses and updates itself based on the most recent academic entry in the Journey timeline.
 
 ---
 
