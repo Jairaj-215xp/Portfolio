@@ -1,0 +1,157 @@
+{
+  "profile": {
+    "name": "Jairaj Sapkal",
+    "title": "Second Year IT Student",
+    "tagline": "Transforming ideas into intelligent, user-focused digital solutions.",
+    "description": "I specialize in AI-driven applications and modern web development, with a passion for building scalable, meaningful products that make a real-world impact.",
+    "location": "Pune, Maharashtra",
+    "availability": "Available for Internship and Job opportunities",
+
+    "photo": "assets/images/profile.jpg",
+
+    "resume": "assets/resume/resume.pdf",
+
+    "socials": {
+      "github": "https://github.com/Jairaj-215xp",
+      "linkedin": "https://www.linkedin.com/in/jairaj-sapkal-5b8291385/",
+      "instagram": "https://www.instagram.com/jairaj_215xp/",
+      "email": "sapkaljairaj215sm@gmail.com"
+    },
+
+    "stats": {
+      "cgpa": "8.95",
+      "projects": 0,
+      "certificates": 0,
+      "hoursLearning": 0
+    }
+  },
+
+  "about":{
+
+"title":"Curious. Consistent. Always Learning.",
+
+"description":[
+
+"...",
+
+"...",
+
+"..."
+]
+
+},
+
+  "skills": [],
+
+  "timeline": [
+    {
+      "year": "2023",
+      "category": "Secondary Education",
+      "description": "Completed <b>SSC (10th Grade)</b> with <b>90.40%</b> from <b>Vidya Pratishthan's New English Medium School, Baramati</b>.",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "year": "2025",
+      "category": "Higher Secondary Education",
+      "description": "Completed <b>HSC (12th Grade)</b> with <b>82.17%</b> from <b>Ajit Dada English Medium & Junior College, Kathphal, Baramati</b>.",
+      "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+      "year": "2025",
+      "category": "College",
+      "description": "Began pursuing a <b>B.Tech in Information Technology</b> at <b>Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune</b>.",
+      "icon": "fa-solid fa-school"
+    },
+    {
+      "year": "2025",
+      "category": "Project",
+      "description": "Developed <b>Eventra</b>, an event management platform, as part of a hackathon.",
+      "icon": "fa-solid fa-rocket"
+    },
+    {
+      "year": "2025",
+      "category": "Academics",
+      "description": "Achieved a <b>Semester 1 SGPA of 8.95</b>.",
+      "icon": "fa-solid fa-book"
+    },
+    {
+      "year": "2026",
+      "category": "Academics",
+      "description": "Completed <b>Semester 2</b> with an <b>SGPA of 8.27</b>, resulting in a <b>First Year CGPA of 8.61</b>.",
+      "icon": "fa-solid fa-book"
+    },
+    {
+      "year": "2026",
+      "category": "UI/UX",
+      "description": "Designed the user interface for <b>FinPilot</b> using <b>Figma</b>, focusing on intuitive and modern user experience.",
+      "icon": "fa-solid fa-palette"
+    },
+    {
+      "year": "2026",
+      "category": "Project",
+      "description": "Built <b>HydroHub</b>, a research-driven platform focused on hydrogen technologies, integrating research, interactive learning, and modern web development.",
+      "icon": "fa-solid fa-laptop-code"
+    },
+    {
+      "year": "2026",
+      "category": "Research",
+      "description": "Registered for an <b>ORCID iD</b> to support and establish my academic and research contributions.",
+      "icon": "fa-solid fa-microscope"
+    },
+    {
+      "year": "2026",
+      "category": "Open Source",
+      "description": "Joined <b>Elite Coders Summer of Code (ECSoC) 2026</b> as a <b>Contributor</b>, collaborating on open-source projects and enhancing my development skills.",
+      "icon": "fa-solid fa-code-branch"
+    },
+    {
+      "year": "2026",
+      "category": "Portfolio",
+      "description": "Designed and developed my personal portfolio website to showcase my projects, achievements, and continuous learning journey.",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "year": "Present",
+      "category": "Continuous Learning",
+      "description": "Continuing to learn, build, and contribute to meaningful software projects while exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Open Source</b>. Every project is an opportunity to improve, solve real-world problems, and grow as a developer.",
+      "icon": "fa-solid fa-seedling"
+    }
+  ],
+
+  "certificates": [],
+
+  "projects": [
+    {
+      "title": "HydroHub",
+      "subtitle": "Clean Energy Web Platform",
+      "year": 2026,
+      "status": "Completed",
+      "description": "An expansive, modern web platform dedicated to accelerating the clean energy transition. It makes hydrogen fuel knowledge accessible to everyone — from industry professionals and researchers to students and clean energy enthusiasts.",
+      "tech": [
+        "HTML5",
+        "CSS3",
+        "Vanilla JS",
+        "Firebase"
+      ],
+      "cover": "assets/images/projects/hydrohub.png",
+      "github": "https://github.com/Jairaj-215xp/HydroHub",
+      "live": ""
+    },
+    {
+      "title": "FinPilot",
+      "subtitle": "Financial Management App Design",
+      "year": 2026,
+      "status": "Design Phase",
+      "description": "Wireframes and design documentation for a Financial Management Application, created using Figma as part of the EEL-2 project.",
+      "tech": [
+        "Figma",
+        "UI/UX Design"
+      ],
+      "cover": "assets/images/projects/finpilot.png",
+      "github": "https://github.com/Jairaj-215xp/EEL-2-Project-Finpilot-",
+      "live": "https://www.figma.com/design/pM9VHjRsXdUV71K9Itxtca/FinPilot?t=PLokUoGbMlu4dDcY-0"
+    }
+  ]
+
+  
+}
