@@ -1,0 +1,60 @@
+{
+  "certificates": [
+    {
+      "title": "WOW-Verse 24 Hour Hackathon",
+      "issuer": "Google Developer Groups on Campus, MMCOE",
+      "date": "17th Jan 2026",
+      "link": "",
+      "image": "assets/images/certificates/wow-verse.jpg"
+    },
+    {
+      "title": "Git & GitHub Bootcamp",
+      "issuer": "LetsUpgrade",
+      "date": "6th April 2026",
+      "link": "https://verify.letsupgrade.in/certificate/LUEGGAPR126183",
+      "image": "assets/images/certificates/git-bootcamp.jpg"
+    },
+    {
+      "title": "What Is Artificial Intelligence? | CrashCourse AI #1",
+      "issuer": "IBM SkillsBuild",
+      "date": "18th Jun 2026",
+      "link": "",
+      "image": "assets/images/certificates/ibm-ai-1.jpg"
+    },
+    {
+      "title": "Exploring Artificial Intelligence",
+      "issuer": "IBM SkillsBuild",
+      "date": "19th Jun 2026",
+      "link": "",
+      "image": "assets/images/certificates/ibm-ai-2.jpg"
+    },
+    {
+      "title": "AI And Machine Learning Full Course | Simplilearn",
+      "issuer": "IBM SkillsBuild",
+      "date": "19th Jun 2026",
+      "link": "",
+      "image": "assets/images/certificates/ibm-ai-3.jpg"
+    },
+    {
+      "title": "Applying Artificial Intelligence",
+      "issuer": "IBM SkillsBuild",
+      "date": "19th Jun 2026",
+      "link": "",
+      "image": "assets/images/certificates/ibm-ai-4.jpg"
+    },
+    {
+      "title": "Introduction to Modern AI",
+      "issuer": "Cisco Networking Academy",
+      "date": "30th Jun 2026",
+      "link": "https://www.credly.com/badges/c8bd028f-2f6d-4b3e-b87f-e2844328367e",
+      "image": "assets/images/certificates/cisco-modern-ai.jpg"
+    },
+    {
+      "title": "Learning Microsoft 365 Copilot for Work",
+      "issuer": "LinkedIn Learning",
+      "date": "3rd Jul 2026",
+      "link": "https://www.linkedin.com/learning/certificates/fd53614248779e75e94dcd45d45d887b17c3ad0ada19fb1c30fc708b64b4067f",
+      "image": "assets/images/certificates/linkedin-copilot.jpg"
+    }
+  ]
+}

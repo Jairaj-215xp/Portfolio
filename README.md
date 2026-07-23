@@ -1,45 +1,59 @@
-# 🚀 Jairaj Sapkal - Personal Portfolio
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jairaj+Sapkal;Welcome+to+my+Portfolio;Information+Technology+Student;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</div>
 
-Welcome to my personal portfolio! This is a modern, fast, and responsive web application built to showcase my projects, skills, and continuous learning journey as an Information Technology student and developer.
+<br>
 
-**🌐 Live Demo:** [https://jairajsapkal.netlify.app/](https://jairajsapkal.netlify.app/)
+<div align="center">
+  <a href="https://jairajsapkal.netlify.app/">
+    <img src="https://img.shields.io/badge/View_Live_Demo-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://www.linkedin.com/in/jairaj-sapkal-5b8291385/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Jairaj_215xp">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<br>
+
+## 🌟 About This Project
+
+Welcome to the repository for my personal portfolio! This is a modern, fast, and responsive web application built to showcase my projects, certifications, and continuous learning journey as an Information Technology student and developer. 
+
+The site is built with a focus on high performance, smooth glassmorphic UI, and dynamic data rendering using Vanilla JavaScript.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5 & CSS3**: Semantic structure with advanced CSS features (Grid, Flexbox, Custom Properties, Backdrop-Filter).
-- **Vanilla JavaScript (ES6)**: No heavy frameworks. Pure, fast, and lightweight JavaScript for DOM manipulation and animations.
-- **JSON**: Centralized data management for easy content updates.
-- **FontAwesome**: Modern icons for social links, tech tags, and UI elements.
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+</div>
+
+- **Semantic HTML5 & CSS3**: Utilizes CSS Grid, Flexbox, Custom Properties (Variables), and Backdrop-Filter for glassmorphism.
+- **Vanilla JavaScript (ES6)**: Pure, fast, lightweight JS for DOM manipulation, dynamic JSON fetching, and scroll animations using the Intersection Observer API.
+- **Dynamic Content**: Powered entirely by `portfolio.json` and `certificates.json`, making updates seamless without touching HTML.
 - **Web3Forms**: Backend-less email forwarding for the contact section.
-- **Hosted on Netlify**: Fast, continuous deployment.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Architecture
 
 ```text
 📁 portfolio/
 ├── 📄 index.html          # Main HTML structure
 ├── 📄 README.md           # Project documentation
-├── 📁 css/                # Modular CSS stylesheets
-│   ├── style.css          # Global variables and typography
-│   ├── hero.css           # Hero/Header styling
-│   ├── about.css          # About me section
-│   ├── timeline.css       # My Journey vertical timeline
-│   ├── projects.css       # Featured projects grid
-│   ├── contact.css        # Contact form and info
-│   └── footer.css         # Footer styling
-├── 📁 js/                 # Modular JavaScript
-│   ├── dataLoader.js      # Fetches portfolio.json and kicks off rendering
-│   ├── script.js          # Global scripts, Intersection Observer, smooth scrolling
-│   ├── hero.js            # Injects Hero/About data & calculates CGPA
-│   ├── journey.js         # Renders the vertical timeline
-│   ├── projects.js        # Renders the projects grid
-│   └── contact.js         # Handles Web3Forms submission & validation
-├── 📁 data/
-│   └── portfolio.json     # 🧠 The brain of the site - update this to change content!
+├── 📁 css/                # Modular CSS stylesheets (hero, about, projects, certificates, etc.)
+├── 📁 js/                 # Modular JavaScript (dataLoader, hero, projects, certificates, etc.)
+├── 📁 data/               # The brain of the site 🧠
+│   ├── portfolio.json     # Personal details, journey timeline, and projects
+│   └── certificates.json  # Certificates and verified badges data
 └── 📁 assets/             # Images, resume, and project covers
 ```
 
@@ -47,7 +61,7 @@ Welcome to my personal portfolio! This is a modern, fast, and responsive web app
 
 ## 🚀 How to Run Locally
 
-If you'd like to run this project locally on your machine:
+If you'd like to explore the code or run this project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
@@ -58,7 +72,7 @@ If you'd like to run this project locally on your machine:
    cd portfolio
    ```
 3. **Start a local server:**
-   Because the site fetches data from a local JSON file (`dataLoader.js` uses `fetch()`), you need to run it through a local web server (opening the HTML file directly in the browser will cause a CORS error).
+   Because the site fetches data from local JSON files (`fetch()` API), you need to run it through a local web server to avoid CORS errors.
    
    If you have Python installed, run:
    ```bash
@@ -70,11 +84,12 @@ If you'd like to run this project locally on your machine:
 
 ---
 
-## 📬 Contact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jairaj-215xp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
-- **Email**: [sapkaljairaj215sm@gmail.com](mailto:sapkaljairaj215sm@gmail.com)
-- **LinkedIn**: [Jairaj Sapkal](https://www.linkedin.com/in/jairaj-sapkal-5b8291385/)
-- **X (Twitter)**: [@Jairaj_215xp](https://x.com/Jairaj_215xp)
+<br>
 
----
-*Designed & Built by Jairaj Sapkal* ⚡
+<div align="center">
+  <i>Designed & Built by Jairaj Sapkal</i> ⚡
+</div>
