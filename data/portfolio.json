@@ -150,6 +150,22 @@
       "cover": "assets/images/projects/finpilot.png",
       "github": "https://github.com/Jairaj-215xp/EEL-2-Project-Finpilot-",
       "live": "https://www.figma.com/design/pM9VHjRsXdUV71K9Itxtca/FinPilot?t=PLokUoGbMlu4dDcY-0"
+    },
+    {
+      "title": "Portfolio",
+      "subtitle": "Personal Developer Website",
+      "year": 2026,
+      "status": "Completed",
+      "description": "My personal portfolio website showcasing my projects, skills, achievements, and development journey. Built with modern web technologies and designed for performance, responsiveness, and a seamless user experience.",
+      "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive UI"
+      ],
+      "cover": "assets/images/projects/portfolio.svg",
+      "github": "https://github.com/Jairaj-215xp/Portfolio",
+      "live": "https://jairajsapkal.netlify.app/"
     }
   ]
 
