@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Navy Dark Background matching Navigation Bar -->
+  <rect width="100" height="100" rx="24" fill="#050816"/>
+  
+  <!-- Subtle inner cyan accent border -->
+  <rect width="96" height="96" x="2" y="2" rx="22" stroke="#00E5FF" stroke-width="1.5" stroke-opacity="0.25" fill="none"/>
+  
+  <!-- Bold Cyan Monogram: JS -->
+  <g stroke="#00E5FF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Letter J -->
+    <path d="M 43 28 V 62 C 43 75, 27 76, 25 64"/>
+    
+    <!-- Letter S -->
+    <path d="M 77 39 A 11 11 0 0 0 55 39 C 55 53, 77 47, 77 61 A 11 11 0 0 1 55 61"/>
+  </g>
+</svg>
