@@ -191,3 +191,40 @@ reveals.forEach(item=>{
 window.observer.observe(item);
 
 });
+
+/* ==========================================
+   MOBILE NAVBAR MENU TOGGLE
+========================================== */
+const menuToggle = document.querySelector(".menu-toggle");
+const navLinks = document.getElementById("nav-links");
+
+if (menuToggle && navLinks) {
+    menuToggle.addEventListener("click", () => {
+        navLinks.classList.toggle("show");
+        const icon = menuToggle.querySelector("i");
+        if (icon) {
+            if (navLinks.classList.contains("show")) {
+                icon.classList.remove("fa-bars");
+                icon.classList.add("fa-xmark");
+            } else {
+                icon.classList.remove("fa-xmark");
+                icon.classList.add("fa-bars");
+            }
+        }
+    });
+
+    // Close mobile menu when any nav link is clicked
+    const links = navLinks.querySelectorAll("a");
+    links.forEach(link => {
+        link.addEventListener("click", () => {
+            if (navLinks.classList.contains("show")) {
+                navLinks.classList.remove("show");
+                const icon = menuToggle.querySelector("i");
+                if (icon) {
+                    icon.classList.remove("fa-xmark");
+                    icon.classList.add("fa-bars");
+                }
+            }
+        });
+    });
+}
