@@ -6,13 +6,16 @@
 
 <div align="center">
   <a href="https://jairajsapkal.netlify.app/">
-    <img src="https://img.shields.io/badge/View_Live_Demo-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/View_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jairaj-sapkal-5b8291385/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Jairaj_215xp">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://leetcode.com/u/Jairaj215xp/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
