@@ -143,29 +143,38 @@
 ========================================== */
 @media screen and (max-width: 900px) {
     .timeline-container::after {
-        left: 31px;
+        left: 20px !important;
     }
     
     .timeline-year-marker {
-        justify-content: flex-start;
-        margin-left: 10px;
+        justify-content: flex-start !important;
+        margin-left: 0 !important;
     }
 
-    .timeline-item {
-        width: 100%;
-        padding-left: 80px;
-        padding-right: 0;
-        text-align: left;
-    }
-
+    .timeline-item,
+    .timeline-item.left,
     .timeline-item.right {
-        left: 0;
-        transform: translateX(-60px);
+        width: 100% !important;
+        left: 0 !important;
+        padding-left: 55px !important;
+        padding-right: 0 !important;
+        text-align: left !important;
+        transform: translateY(30px) !important;
     }
 
+    .timeline-item.show,
+    .timeline-item.left.show,
+    .timeline-item.right.show {
+        transform: translate(0, 0) !important;
+    }
+
+    .timeline-item .timeline-icon,
     .timeline-item.left .timeline-icon,
     .timeline-item.right .timeline-icon {
-        left: 11px;
-        right: auto;
+        left: 0px !important;
+        right: auto !important;
+        top: 20px !important;
+        width: 40px !important;
+        height: 40px !important;
     }
 }

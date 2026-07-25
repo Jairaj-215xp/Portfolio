@@ -22,10 +22,10 @@ function renderJourney() {
 
         html += `
             <div class="timeline-item ${alignClass}">
+                <div class="timeline-icon">
+                    <i class="${item.icon}"></i>
+                </div>
                 <div class="timeline-content">
-                    <div class="timeline-icon">
-                        <i class="${item.icon}"></i>
-                    </div>
                     <div class="timeline-text">
                         <span class="timeline-category">${item.category}</span>
                         <p class="timeline-description">${item.description}</p>
