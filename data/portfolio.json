@@ -89,7 +89,7 @@
     {
       "year": "2026",
       "category": "Project",
-      "description": "Built <b>HydroHub</b>, a research-driven platform focused on hydrogen technologies, integrating research, interactive learning, and modern web development.",
+      "description": "Built <b>HydroStat</b>, a research-driven platform focused on hydrogen technologies, integrating research, interactive learning, and modern web development.",
       "icon": "fa-solid fa-laptop-code"
     },
     {
@@ -122,7 +122,7 @@
 
   "projects": [
     {
-      "title": "HydroHub",
+      "title": "HydroStat",
       "subtitle": "Clean Energy Web Platform",
       "year": 2026,
       "status": "Completed",
@@ -135,7 +135,7 @@
       ],
       "cover": "assets/images/projects/hydrohub.png",
       "github": "https://github.com/Jairaj-215xp/HydroHub",
-      "live": ""
+      "live": "https://hydrostat.netlify.app/"
     },
     {
       "title": "FinPilot",
