@@ -166,6 +166,21 @@
       "cover": "assets/images/projects/portfolio.svg",
       "github": "https://github.com/Jairaj-215xp/Portfolio",
       "live": "https://jairajsapkal.netlify.app/"
+    },
+    {
+      "title": "Mauli",
+      "subtitle": "Your Darshan, Without the Uncertainty.",
+      "year": 2026,
+      "status": "Completed",
+      "description": "Modern technology serving an ancient pilgrimage experience. Advance darshan booking, live queue status, and seamless pilgrimage assistance. Skip the physical queues and experience divinity with peace of mind.",
+      "tech": [
+        "Web Development",
+        "Frontend",
+        "UI/UX"
+      ],
+      "cover": "assets/images/projects/mauli.png",
+      "github": "https://github.com/Jairaj-215xp/Mauli_Varithon",
+      "live": "https://mauli-virid.vercel.app/"
     }
   ]
 
