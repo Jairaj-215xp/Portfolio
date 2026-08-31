@@ -111,6 +111,12 @@
       "icon": "fa-solid fa-globe"
     },
     {
+      "year": "2026",
+      "category": "Project",
+      "description": "Developed <b>Mauli</b>, a modern web platform transforming the ancient pilgrimage experience with advance darshan booking and live queue tracking.",
+      "icon": "fa-solid fa-hands-praying"
+    },
+    {
       "year": "Present",
       "category": "Continuous Learning",
       "description": "Continuing to learn, build, and contribute to meaningful software projects while exploring <b>Artificial Intelligence</b>, <b>Web Development</b>, and <b>Open Source</b>. Every project is an opportunity to improve, solve real-world problems, and grow as a developer.",
