@@ -55,6 +55,13 @@
       "date": "3rd Jul 2026",
       "link": "https://www.linkedin.com/learning/certificates/fd53614248779e75e94dcd45d45d887b17c3ad0ada19fb1c30fc708b64b4067f",
       "image": "assets/images/certificates/linkedin-copilot.jpg"
+    },
+    {
+      "title": "ViCoDathon 2026 - India's AI Vibe Coding Hackathon",
+      "issuer": "AB TALKS",
+      "date": "14th Aug 2026",
+      "link": "https://www.abtalks.in/verify/ABT-HK-R6NHF",
+      "image": "assets/images/certificates/vicodathon-abtalks.jpg"
     }
   ]
 }
